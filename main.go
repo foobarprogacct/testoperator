@@ -1,0 +1,4 @@
+package testoperator
+
+func main() {
+}
